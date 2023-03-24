@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there,+i'm+Anastasia)](https://git.io/typing-svg)
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/Neko_Universe)
+[![codewars](https://www.codewars.com/users/Neko_Universe/badges/large)](https://www.codewars.com/users/Neko_Universe)
 
 <!--
 **GeekNekoS/GeekNekoS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
