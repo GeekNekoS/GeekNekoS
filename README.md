@@ -2,6 +2,6 @@
 
 [![codewars](https://www.codewars.com/users/Neko_Universe/badges/large)](https://www.codewars.com/users/Neko_Universe)
 
-![](https://komarev.com/ghpvc/?username=GeekNekoS&color=green)
+![](https://komarev.com/ghpvc/?username=GeekNekoS&color=orange)
 
 <!--- nothing changed -->
