@@ -5,8 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=GeekNekoS&color=orange)
 
 <p>
-<a href="https://www.codewars.com/users/Neko_Universe" rel="noopener noreferrer nofollow" target="_blank">
-<img alt="Codewars" src="https://www.codewars.com/users/Neko_Universe/badges/large"></a>
+<img alt="Neon" src="https://drive.google.com/uc?export=download&amp;id=1g24jWyChm43XqSpzQ_7fBuHV3_dVz7YQ">
 </p>
 
 <!--- nothing changed -->
