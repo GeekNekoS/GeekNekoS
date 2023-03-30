@@ -2,8 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=GeekNekoS&color=orange)
 
-<p>
-<img alt="Neon" src="https://drive.google.com/uc?export=download&amp;id=1gWw5rNMNYMrpw93YHjC11Ot-lDV75yFG">
+<p class="aligncenter">
+    <img alt="Neon" src="https://drive.google.com/uc?export=download&amp;id=1gWw5rNMNYMrpw93YHjC11Ot-lDV75yFG">
 </p>
 
 <!--- nothing changed -->
