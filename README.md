@@ -7,4 +7,4 @@ Look into my parsing [service](https://spider-cat.up.railway.app/)
 </p>
 
 
-![](https://komarev.com/ghpvc/?username=GeekNekoS&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=GeekNekoS&color=grey)
