@@ -10,4 +10,4 @@ Look into my parsing <a href="https://spider-cat.up.railway.app/" target="_blank
 </p>
 -->
 
-![](https://komarev.com/ghpvc/?username=GeekNekoS&color=orange)
+![](https://komarev.com/ghpvc/?username=GeekNekoS&color=#e194ff)
