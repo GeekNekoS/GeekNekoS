@@ -1,8 +1,9 @@
 # Active project
 
-Look into my parsing <a href="https://spider-cat.up.railway.app/" target="_blank">service</a>
+Look into my parsing [service](https://spider-cat.up.railway.app/){target="_blank"}
 
 <!---
+Look into my parsing <a href="https://spider-cat.up.railway.app/" target="_blank">service</a>
 Look into my parsing [service](https://spider-cat.up.railway.app/)
 
 <p class="aligncenter">
