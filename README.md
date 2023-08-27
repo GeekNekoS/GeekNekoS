@@ -1,7 +1,5 @@
 # Active project
 
-<p><a href="https://spider-cat.up.railway.app/" target="_blank">Ссылка откроется в новом окне</a></p>
-
 Look into my parsing [service](https://spider-cat.up.railway.app/)
 
 <!---
