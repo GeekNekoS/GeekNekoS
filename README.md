@@ -1,6 +1,8 @@
 # Active project
 
+<animated-image data-catalyst="" style="width: 100%;">
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" data-target="animated-image.originalLink"> </a>
+</animated-image>
 
 ### Look into my parsing [service](https://spider-cat.up.railway.app/) 🕸
 
