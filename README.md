@@ -8,7 +8,7 @@
 -->
 
 • Cartridge 1987 <br />
-|__ [The Chase]([https://www.youtube.com/watch?v=yhCuCqJbOVE](https://www.youtube.com/watch?v=mvrMQD_SGj0)) <br />
+|__ [The Chase](https://www.youtube.com/watch?v=yhCuCqJbOVE](https://www.youtube.com/watch?v=mvrMQD_SGj0) <br />
 
 # Active project
 
