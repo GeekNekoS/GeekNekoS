@@ -3,8 +3,8 @@
 -->
 
 • Neko's local mood <br />
-|__ [The Very Best Of A.L.I.S.O.N](https://www.youtube.com/watch?v=fr_k1Jrrv14) <br />
 |__ [Me, you love me, me](https://www.youtube.com/watch?v=_YI5UBZmHyU) <br />
+|__ [The Very Best Of A.L.I.S.O.N](https://www.youtube.com/watch?v=fr_k1Jrrv14) ♡ <br />
 |__ [INTERWORLD - METAMORPHOSIS](https://www.youtube.com/watch?v=AswXiy8JCsI&t=850s) <br />
 
 # Active projects
