@@ -5,8 +5,8 @@
 • Neko's local mood <br />
 |__ [Me, you love me, me](https://www.youtube.com/watch?v=_YI5UBZmHyU) <br />
 
-# Active project
-
+# Active projects
+### New project coming soon 
 ### Look into my parsing [service](https://spider-cat.up.railway.app/) 🕸
 
 <!--
