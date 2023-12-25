@@ -3,7 +3,7 @@
 -->
 
 • Neko's local mood <br />
-|__ [Me, you love me, me]([https://www.youtube.com/watch?v=SgjqghPET-U](https://www.youtube.com/watch?v=_YI5UBZmHyU)) <br />
+|__ [Me, you love me, me](https://www.youtube.com/watch?v=_YI5UBZmHyU) <br />
 
 # Active project
 
