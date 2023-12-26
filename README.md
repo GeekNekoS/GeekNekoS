@@ -3,10 +3,10 @@
 -->
 
 • Neko's local mood <br />
-|__ [Magdalena Bay - Killshot](https://www.youtube.com/watch?v=lhfs1CzzUPM&list=PLS28calGpTQ88M7zu6IkgLwm5Rbk0nNVD&index=32) <br />
+|__ [Magdalena Bay - Killshot](https://www.youtube.com/watch?v=lhfs1CzzUPM&list=PLS28calGpTQ88M7zu6IkgLwm5Rbk0nNVD&index=32) ♡ <br />
+|__ [The Very Best Of A.L.I.S.O.N](https://www.youtube.com/watch?v=fr_k1Jrrv14) <br />
+|__ [A.L.I.S.O.N - Unreleased Tracks](https://www.youtube.com/watch?v=i1BMGAfAnNs) <br />
 |__ [Me, you love me, me](https://www.youtube.com/watch?v=_YI5UBZmHyU) <br />
-|__ [The Very Best Of A.L.I.S.O.N](https://www.youtube.com/watch?v=fr_k1Jrrv14) ♡ <br />
-|__ [A.L.I.S.O.N - Unreleased Tracks](https://www.youtube.com/watch?v=i1BMGAfAnNs) ♡ <br />
 |__ [INTERWORLD - METAMORPHOSIS](https://www.youtube.com/watch?v=AswXiy8JCsI&t=850s) <br />
 
 # Active projects
