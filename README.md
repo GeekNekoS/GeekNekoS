@@ -7,11 +7,8 @@ For status
 -> Working on a project ___〆(・∀・)
 -->
 
-<!--
 • Neko's local mood <br />
-|__ [The Very Best Of A.L.I.S.O.N](https://www.youtube.com/watch?v=fr_k1Jrrv14) <br />
-|__ [A.L.I.S.O.N - Unreleased Tracks](https://www.youtube.com/watch?v=i1BMGAfAnNs) <br />
--->
+|__ [Depeche Mode - Just Can't Get Enough](https://www.youtube.com/watch?v=_6FBfAQ-NDE) <br />
 
 
 # Active projects
