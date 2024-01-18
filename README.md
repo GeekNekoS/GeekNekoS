@@ -12,7 +12,7 @@ For status
 
 
 # Active projects
-### -> Site whith my resume coming soon
+### -> Web-site whith my resume coming soon
 ### -> A service that helps you learn English coming soon
 ### -> Look into my parsing [service](https://spider-cat.up.railway.app/) 🕸
 
