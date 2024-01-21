@@ -7,7 +7,11 @@ For status
 -> Working on a project ___〆(・∀・)
 -->
 
-• Neko's local mood <br />
+# 🛠 Tech Stack
+Languages: 
+<img src="https://camo.githubusercontent.com/071e45d0c457ee0193625d292ee20129da9775bcc619df46663edb0659388654/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3035313232413f7374796c653d666c6174266c6f676f3d707974686f6e" alt="Python">
+
+## • Neko's local mood <br />
 |__ [Depeche Mode - Just Can't Get Enough](https://www.youtube.com/watch?v=_6FBfAQ-NDE) <br />
 
 
