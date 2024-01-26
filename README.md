@@ -22,7 +22,7 @@
               <img src="https://skillicons.dev/icons?i=django,css,html" />
           </a>
       </td>
-      <td>
+      <td align="center">
           <a href="https://skillicons.dev">
               <img src="https://skillicons.dev/icons?i=postgres" />
           </a>
