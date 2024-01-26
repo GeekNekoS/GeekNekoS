@@ -1,4 +1,13 @@
 # 🛠 Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <p>Version control:</p>
+    <img src="https://skillicons.dev/icons?i=git,github" />
+  </a>
+</p>
+
+<!--
 Languages: 
 <img alt="Python" src="https://camo.githubusercontent.com/071e45d0c457ee0193625d292ee20129da9775bcc619df46663edb0659388654/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3035313232413f7374796c653d666c6174266c6f676f3d707974686f6e">
 <img alt="Java Script" src="https://camo.githubusercontent.com/b95a05885d234291abaea2ccdecbad37bfb47c2964ae818526d76905d8d49438/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074">
@@ -13,7 +22,8 @@ Version Control:
 <br /><br />
 
 # Neko's local mood <br />
-|__ [Depeche Mode - Just Can't Get Enough](https://www.youtube.com/watch?v=_6FBfAQ-NDE) <br />
+|__ [Depeche Mode - Just Can't Get Enough](https://www.youtube.com/watch?v=_6FBfAQ-NDE)
+-->
 <br /><br />
 
 # Active projects
