@@ -2,8 +2,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <p>Version control:</p>
-    <img src="https://skillicons.dev/icons?i=git,github" />
+    <p>Version control: <img src="https://skillicons.dev/icons?i=git,github" /></p>
   </a>
 </p>
 
