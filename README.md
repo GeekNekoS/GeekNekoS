@@ -1,4 +1,4 @@
-# 🛠 Tech Stack
+# Tech Stack
 <table>
   <tr>
       <th>Version control</th>
