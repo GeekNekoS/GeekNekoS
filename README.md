@@ -5,9 +5,10 @@
       <th>Languages</th>
       <th>Web</th>
       <th>Data bases</th>
+      <th>Testing</th>
   </tr>
   <tr>
-      <td align="center">
+      <td>
           <a href="https://skillicons.dev">
               <img src="https://skillicons.dev/icons?i=git,github" />
           </a>
@@ -22,9 +23,14 @@
               <img src="https://skillicons.dev/icons?i=django,css,html" />
           </a>
       </td>
-      <td align="center">
+      <td>
           <a href="https://skillicons.dev">
               <img src="https://skillicons.dev/icons?i=postgres" />
+          </a>
+      </td>
+      <td>
+          <a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=selenium" />
           </a>
       </td>
   </tr>
