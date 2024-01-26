@@ -4,6 +4,7 @@
       <th>Version control</th>
       <th>Languages</th>
       <th>Web</th>
+      <th>Data bases</th>
   </tr>
   <tr>
       <td>
@@ -19,6 +20,11 @@
       <td>
           <a href="https://skillicons.dev">
               <img src="https://skillicons.dev/icons?i=django,css,html" />
+          </a>
+      </td>
+      <td>
+          <a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=postgres" />
           </a>
       </td>
   </tr>
