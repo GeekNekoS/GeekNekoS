@@ -24,6 +24,32 @@
       </th>
   </tr>
 </table>
+
+<table>
+  <tr>
+      <th>Version control</th>
+      <th>Languages</th>
+      <th>Web</th>
+  </tr>
+  <tr>
+      <td>
+          <a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=git,github" />
+          </a>
+      </td>
+      <td>
+          <a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=python,js" />
+          </a>
+      </td>
+      <td>
+          <a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=django,css,html" />
+          </a>
+      </td>
+  </tr>
+</table>
+
 <br /><br />
 
 # Neko's local mood <br />
