@@ -37,29 +37,10 @@
 </table>
 <br />
 
-<table>
-  <tr>
-      <th></th>
-      <th></th>
-  </tr>
-  <tr>
-      <td>
-        <p># Active projects<p>
-        <p>### ⭐ Web-site whith my resume coming soon<p>
-        <p>### ⭐ A service that helps you learn English coming soon<p>
-        <p>### ⭐ Look into my [parsing service](https://spider-cat.up.railway.app/) 🕸<p>
-      </td>
-      <td>
-      </td>
-  </tr>
-</table>
-
-<!--
 # Active projects
 ### ⭐ Web-site whith my resume coming soon
 ### ⭐ A service that helps you learn English coming soon
 ### ⭐ Look into my [parsing service](https://spider-cat.up.railway.app/) 🕸
--->
 <br />
 
 ![](https://komarev.com/ghpvc/?username=GeekNekoS&color=grey)
