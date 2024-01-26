@@ -1,11 +1,17 @@
 # 🛠 Tech Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <p>Version control:</p>
-    <img src="https://skillicons.dev/icons?i=git,github" />
-  </a>
-</p>
+<table>
+  <tr>
+      <th>Version control</th>
+  </tr>
+  <tr>
+      <th>
+          <a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=git,github" />
+          </a>
+      </th>
+  </tr>
+</table>
 
 <!--
 Languages: 
