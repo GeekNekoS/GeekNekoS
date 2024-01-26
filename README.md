@@ -3,11 +3,17 @@
 <table>
   <tr>
       <th>Version control</th>
+      <th>Languages</th>
   </tr>
   <tr>
       <th>
           <a href="https://skillicons.dev">
               <img src="https://skillicons.dev/icons?i=git,github" />
+          </a>
+      </th>
+      <th>
+          <a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=python,js" />
           </a>
       </th>
   </tr>
