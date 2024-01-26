@@ -25,10 +25,6 @@
 </table>
 <br /><br />
 
-# Neko's local mood <br />
-|__ [Depeche Mode - Just Can't Get Enough](https://www.youtube.com/watch?v=_6FBfAQ-NDE)
-<br /><br />
-
 # Active projects
 ### -> Web-site whith my resume coming soon
 ### -> A service that helps you learn English coming soon
