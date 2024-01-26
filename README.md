@@ -6,7 +6,6 @@
       <th>Web</th>
       <th>Data bases</th>
       <th>Testing</th>
-      <th>IDE</th>
   </tr>
   <tr>
       <td>
@@ -32,11 +31,6 @@
       <td>
           <a href="https://skillicons.dev">
               <img src="https://skillicons.dev/icons?i=selenium" />
-          </a>
-      </td>
-      <td>
-          <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=pycharm" />
           </a>
       </td>
   </tr>
