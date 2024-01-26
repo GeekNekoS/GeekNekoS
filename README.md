@@ -1,4 +1,4 @@
-# ⭐ Tech Stack
+# 🛠 Tech Stack
 Languages: 
 <img alt="Python" src="https://camo.githubusercontent.com/071e45d0c457ee0193625d292ee20129da9775bcc619df46663edb0659388654/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3035313232413f7374796c653d666c6174266c6f676f3d707974686f6e">
 <img alt="Java Script" src="https://camo.githubusercontent.com/b95a05885d234291abaea2ccdecbad37bfb47c2964ae818526d76905d8d49438/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074">
@@ -12,11 +12,11 @@ Version Control:
 <img alt="Git" src="https://camo.githubusercontent.com/eac55a4f93501ed5806115edf714656795057376378402d3794e2bdef70705ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3035313232413f7374796c653d666c6174266c6f676f3d676974">
 <br /><br />
 
-# ⭐ Neko's local mood <br />
+# Neko's local mood <br />
 |__ [Depeche Mode - Just Can't Get Enough](https://www.youtube.com/watch?v=_6FBfAQ-NDE) <br />
 <br /><br />
 
-# ⭐ Active projects
+# Active projects
 ### -> Web-site whith my resume coming soon
 ### -> A service that helps you learn English coming soon
 ### -> Look into my [parsing service](https://spider-cat.up.railway.app/) 🕸
