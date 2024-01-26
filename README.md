@@ -25,7 +25,7 @@
       </td>
       <td>
           <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=postgres" />
+              <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
           </a>
       </td>
       <td>
