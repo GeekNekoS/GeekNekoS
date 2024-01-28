@@ -38,8 +38,10 @@
 <br />
 
 # Active projects
+<!--
 ### ⭐ Web-site with <a href="https://my-resume.up.railway.app/" target="_blank">my resume</a>
-### ⭐ Web-site with <button onclick=»window.open("https://my-resume.up.railway.app/")»>my resume</button>
+-->
+### ⭐ Web-site with <button onclick="window.open('https://my-resume.up.railway.app/')">my resume</button>
 
 ### ⭐ A demo service for studying English coming soon
 <!--
