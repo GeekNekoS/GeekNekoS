@@ -39,7 +39,7 @@
 
 # Active projects
 ### ⭐ Web-site with <a target="_blank" href="https://my-resume.up.railway.app/">my resume</a>
-### ⭐ A service that helps you learn English coming soon
+### ⭐ A demo service for studying English coming soon
 <!--
 ### ⭐ Look into my [parsing service](https://spider-cat.up.railway.app/) 🕸
 -->
