@@ -30,7 +30,7 @@
       </td>
       <td>
           <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=selenium,allure" />
+              <img src="https://skillicons.dev/icons?i=selenium" />
           </a>
       </td>
   </tr>
