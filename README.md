@@ -40,7 +40,9 @@
 # Active projects
 ### ⭐ Web-site whith my resume coming soon
 ### ⭐ A service that helps you learn English coming soon
+<!--
 ### ⭐ Look into my [parsing service](https://spider-cat.up.railway.app/) 🕸
+-->
 <br />
 
 ![](https://komarev.com/ghpvc/?username=GeekNekoS&color=grey)
