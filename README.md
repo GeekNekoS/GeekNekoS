@@ -1,38 +1,41 @@
 # Tech Stack
 <table>
   <tr>
-      <th>Version control</th>
-      <th>Languages</th>
-      <th>Web</th>
-      <th>Data bases</th>
-      <th>Testing</th>
+    <th>Version control</th>
+    <th>Languages</th>
+    <th>Web</th>
+    <!--
+    <th>Data bases</th>
+    -->
+    <th>Data storages</th>
+    <th>Testing</th>
   </tr>
   <tr>
-      <td>
-          <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=git,github" />
-          </a>
-      </td>
-      <td>
-          <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=python,js" />
-          </a>
-      </td>
-      <td>
-          <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=django,css,html,svg" />
-          </a>
-      </td>
-      <td>
-          <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
-          </a>
-      </td>
-      <td>
-          <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=selenium" />
-          </a>
-      </td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github" />
+      </a>
+    </td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,js" />
+      </a>
+    </td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=django,css,html,svg" />
+      </a>
+    </td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=postgres,sqlite,google" />
+      </a>
+    </td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=selenium" />
+      </a>
+    </td>
   </tr>
 </table>
 <br />
