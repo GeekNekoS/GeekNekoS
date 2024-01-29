@@ -4,10 +4,7 @@
     <th>Version control</th>
     <th>Languages</th>
     <th>Web</th>
-    <!--
     <th>Data bases</th>
-    -->
-    <th>Data storages</th>
     <th>Testing</th>
   </tr>
   <tr>
@@ -28,7 +25,7 @@
     </td>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=postgres,sqlite,google" />
+        <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
       </a>
     </td>
     <td>
