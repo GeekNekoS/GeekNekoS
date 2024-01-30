@@ -1,5 +1,6 @@
 # Tech Stack <img style="width: 40px; height: 40px" src="https://camo.githubusercontent.com/d680d47b3fbb57adbcfc30bac03f742d1b3cfc3edb51d7b09a1ab35dd5fe3218/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d64656661756c742e676966">
 
+<!--
 <table>
   <tr>
     <th>Version control</th>
@@ -29,6 +30,72 @@
         <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
       </a>
     </td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=selenium" />
+      </a>
+    </td>
+  </tr>
+</table>
+-->
+
+<table style="display: inline-block">
+  <tr>
+    <th>Version control</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table style="display: inline-block">
+  <tr>
+    <th>Languages</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,js" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table style="display: inline-block">
+  <tr>
+    <th>Web</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=django,css,scss,html,bootstrap,svg" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table style="display: inline-block">
+  <tr>
+    <th>Data bases</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table style="display: inline-block">
+  <tr>
+    <th>Testing</th>
+  </tr>
+  <tr>
     <td>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=selenium" />
