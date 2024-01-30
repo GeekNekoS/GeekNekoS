@@ -20,7 +20,7 @@
     </td>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=django,css,scss,html,svg" />
+        <img src="https://skillicons.dev/icons?i=django,css,scss,html,bootstrap,svg" />
       </a>
     </td>
     <td>
