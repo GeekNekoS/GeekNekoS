@@ -47,6 +47,11 @@
 -->
 <br />
 
+## Music for development
+• Neko's edition <br />
+|__ [Deep Progressive Techno #21](https://www.youtube.com/watch?v=FULCBFlX3Eo) <br />
+<br />
+
 ![](https://komarev.com/ghpvc/?username=GeekNekoS&color=grey)
 
 <!--
