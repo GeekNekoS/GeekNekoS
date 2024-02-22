@@ -45,8 +45,9 @@
 ### ⭐ A demo service for studying English coming soon
 <br />
 
+# Music for development
 <details>
-  <summary># Music for development</summary>
+  <summary>Neko's edition</summary>
   <p>╰- [Lost Among Stars](https://www.youtube.com/watch?v=bnkMsmwCRco)</p>
   <p>╰- [Deep Progressive Techno #21](https://www.youtube.com/watch?v=_qKXINoiFUA)</p>
 </details>
