@@ -48,9 +48,9 @@
 # Music for development
 <details>
   <summary>Neko's edition</summary>
-  <p>╰- [Lost Among Stars](https://www.youtube.com/watch?v=bnkMsmwCRco)</p>
-  <p>╰- [Deep Progressive Techno #21](https://www.youtube.com/watch?v=_qKXINoiFUA)</p>
-</details>
+  ╰- [Lost Among Stars](https://www.youtube.com/watch?v=bnkMsmwCRco) <br />
+  ╰- [Deep Progressive Techno #21](https://www.youtube.com/watch?v=_qKXINoiFUA) <br />
+</details> 
 <br />
 
 ![](https://komarev.com/ghpvc/?username=GeekNekoS&color=grey)
