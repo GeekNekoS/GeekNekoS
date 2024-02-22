@@ -42,7 +42,7 @@
 
 ### ⭐ Web-site with <a href="https://my-resume.up.railway.app/" target="_blank">my resume</a>
 ### ⭐ Look into my demo [parsing service](https://parsing-service.up.railway.app/demo) 🕸
-### ⭐ A demo service for studying English coming soon
+### ⭐ A service for studying English coming soon
 <br />
 
 # Music for development
