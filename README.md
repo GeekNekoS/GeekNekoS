@@ -45,10 +45,11 @@
 ### ⭐ A demo service for studying English coming soon
 <br />
 
-# Music for development
-• Neko's edition <br />
-╰- [Lost Among Stars](https://www.youtube.com/watch?v=bnkMsmwCRco) <br />
-╰- [Deep Progressive Techno #21](https://www.youtube.com/watch?v=_qKXINoiFUA) <br />
+<details>
+  <summary># Music for development</summary>
+  <p>╰- [Lost Among Stars](https://www.youtube.com/watch?v=bnkMsmwCRco)</p>
+  <p>╰- [Deep Progressive Techno #21](https://www.youtube.com/watch?v=_qKXINoiFUA)</p>
+</details>
 <br />
 
 ![](https://komarev.com/ghpvc/?username=GeekNekoS&color=grey)
