@@ -47,6 +47,7 @@
 
 # Music for development
 • Neko's edition <br />
+╰- [Lost Among Stars](https://www.youtube.com/watch?v=bnkMsmwCRco) <br />
 ╰- [Deep Progressive Techno #21](https://www.youtube.com/watch?v=_qKXINoiFUA) <br />
 <br />
 
