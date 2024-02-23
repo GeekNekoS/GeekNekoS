@@ -47,6 +47,7 @@
 
 # Music for development
 Neko's edition <br />
+╰- [Celestial Warchants // Dark Space Music for the Cosmic Inquisition](https://www.youtube.com/watch?v=56KHX6tMZ0g) ♡ <br />
 ╰- [Tape Tech // Machine Uprising Retro Sci-Fi Electronic Mix](https://www.youtube.com/watch?v=J-_KnNpZoE0) <br />
 ╰- [Lost Among Stars](https://www.youtube.com/watch?v=bnkMsmwCRco) <br />
 ╰- [Deep Progressive Techno #21](https://www.youtube.com/watch?v=_qKXINoiFUA) <br />
