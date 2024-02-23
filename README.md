@@ -41,7 +41,7 @@
 # Active projects
 
 ### ⭐ Web-site with <a href="https://my-resume.up.railway.app/" target="_blank">my resume</a>
-### ⭐ Look into my demo [parsing service](https://parsing-service.up.railway.app) 🕸
+### ⭐ Look into my demo [parsing service](https://parsing-service.up.railway.app)
 ### ⭐ A service for studying English coming soon
 <br />
 
