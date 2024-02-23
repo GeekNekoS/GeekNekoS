@@ -47,7 +47,7 @@
 
 # Music for development
 Neko's edition <br />
-╰- [Low poly water mix](https://www.youtube.com/watch?v=GFQc4n6oZ-E) <br />
+╰- [Tape Tech // Machine Uprising Retro Sci-Fi Electronic Mix](https://www.youtube.com/watch?v=J-_KnNpZoE0) <br />
 ╰- [Lost Among Stars](https://www.youtube.com/watch?v=bnkMsmwCRco) <br />
 ╰- [Deep Progressive Techno #21](https://www.youtube.com/watch?v=_qKXINoiFUA) <br />
 <br />
