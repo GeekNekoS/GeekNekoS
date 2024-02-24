@@ -47,6 +47,7 @@
 
 # Music for development
 Neko's edition <br />
+╰- [Black Sun Empire Podcast 13 HQ](https://www.youtube.com/watch?v=RC0UbGkmuFI) <br />
 ╰- [Black Sun Empire Podcast 03 HQ](https://www.youtube.com/watch?v=G1xxLFeS-HY&t=915s) <br />
 ╰- [Cult of the Black Moon](https://www.youtube.com/watch?v=bg4m2yZSIr4) ♡ <br />
 ╰- [Celestial Warchants](https://www.youtube.com/watch?v=56KHX6tMZ0g) ♡ <br />
