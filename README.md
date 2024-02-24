@@ -47,7 +47,8 @@
 
 # Music for development
 Neko's edition <br />
-╰- [Cult of the Black Moon](https://www.youtube.com/watch?v=bg4m2yZSIr4) ♡ <br />
+╰- [Dark Atmospheric Music from the Shadowlands](https://www.youtube.com/watch?v=000z5zd6mrc) ♡ <br />
+╰- [Cult of the Black Moon](https://www.youtube.com/watch?v=bg4m2yZSIr4) <br />
 ╰- [Celestial Warchants](https://www.youtube.com/watch?v=56KHX6tMZ0g) ♡ <br />
 ╰- [From Abandoned Spaceships to Ancient Temples](https://www.youtube.com/watch?v=z6nRBoZ9WZY) <br />
 ╰- [Tape Tech // Machine Uprising Retro Sci-Fi Electronic Mix](https://www.youtube.com/watch?v=J-_KnNpZoE0) <br />
