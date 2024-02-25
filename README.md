@@ -51,7 +51,6 @@
 <br />
 
 # Music for development
-Neko's edition <br />
 <details>
   <summary>
     <a href='https://www.youtube.com/watch?v=ydHzwERb2rY'>Rhan-Tegoth part 1</a>, <a href='https://www.youtube.com/watch?v=ZGImCRim704'>Rhan-Tegoth part 2</a>
@@ -67,16 +66,6 @@ Neko's edition <br />
 ╰- [Tape Tech // Machine Uprising Retro Sci-Fi Electronic Mix](https://www.youtube.com/watch?v=J-_KnNpZoE0) <br />
 ╰- [Lost Among Stars](https://www.youtube.com/watch?v=bnkMsmwCRco) <br />
 <br />
-
-<!--
-# Music for development
-<details>
-  <summary>Neko's edition</summary>
-  ╰- [Lost Among Stars](https://www.youtube.com/watch?v=bnkMsmwCRco) <br />
-  ╰- [Deep Progressive Techno #21](https://www.youtube.com/watch?v=_qKXINoiFUA) <br />
-</details> 
-<br />
--->
 
 ![](https://komarev.com/ghpvc/?username=GeekNekoS&color=grey)
 
