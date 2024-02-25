@@ -53,18 +53,23 @@
 # Music for development
 <details>
   <summary>
-    <a href='https://www.youtube.com/watch?v=ydHzwERb2rY'>Rhan-Tegoth part 1</a>, <a href='https://www.youtube.com/watch?v=ZGImCRim704'>Rhan-Tegoth part 2</a>
+    <a href='https://www.youtube.com/watch?v=ydHzwERb2rY'>Rhan-Tegoth part 1</a>, <a href='https://www.youtube.com/watch?v=ZGImCRim704'>Rhan-Tegoth part 2</a> ♡
   </summary>
   <img src='https://github.com/GeekNekoS/GeekNekoS/assets/116801392/67880948-7b39-424f-b79a-516f978d8b2c'></img>
 </details> 
 
-╰- [Dark Ambient of Gothic Choirs and Ancient Cults](https://www.youtube.com/watch?v=OoiP5mBRBwc) ♡ <br />
-╰- [Dark Atmospheric Music from the Shadowlands](https://www.youtube.com/watch?v=000z5zd6mrc) ♡ <br />
-╰- [Cult of the Black Moon](https://www.youtube.com/watch?v=bg4m2yZSIr4) <br />
-╰- [Celestial Warchants](https://www.youtube.com/watch?v=56KHX6tMZ0g) ♡ <br />
-╰- [From Abandoned Spaceships to Ancient Temples](https://www.youtube.com/watch?v=z6nRBoZ9WZY) <br />
-╰- [Tape Tech // Machine Uprising Retro Sci-Fi Electronic Mix](https://www.youtube.com/watch?v=J-_KnNpZoE0) <br />
-╰- [Lost Among Stars](https://www.youtube.com/watch?v=bnkMsmwCRco) <br />
+<details>
+  <summary>
+    Other
+  </summary>
+  <a href='https://www.youtube.com/watch?v=OoiP5mBRBwc'>Dark Ambient of Gothic Choirs and Ancient Cults</a>
+  <a href='https://www.youtube.com/watch?v=000z5zd6mrc'>Dark Atmospheric Music from the Shadowlands</a>
+  <a href='https://www.youtube.com/watch?v=bg4m2yZSIr4'>Cult of the Black Moon</a>
+  <a href='https://www.youtube.com/watch?v=56KHX6tMZ0g'>Celestial Warchants</a>
+  <a href='https://www.youtube.com/watch?v=z6nRBoZ9WZY'>From Abandoned Spaceships to Ancient Temples</a>
+  <a href='https://www.youtube.com/watch?v=J-_KnNpZoE0'>Tape Tech</a>
+  <a href='https://www.youtube.com/watch?v=bnkMsmwCRco'>Lost Among Stars</a>
+</details> 
 <br />
 
 ![](https://komarev.com/ghpvc/?username=GeekNekoS&color=grey)
