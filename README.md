@@ -52,6 +52,13 @@
 
 # Music for development
 Neko's edition <br />
+<details>
+  <summary>
+    <a href='https://www.youtube.com/watch?v=ZGImCRim704'>Rhan-Tegoth part 2</a>
+  </summary>
+  <img src='https://github.com/GeekNekoS/GeekNekoS/assets/116801392/67880948-7b39-424f-b79a-516f978d8b2c'></img>
+</details> 
+
 ╰- [Rhan-Tegoth part 2](https://www.youtube.com/watch?v=ZGImCRim704) ♡ <br />
 ╰- [Dark Ambient of Gothic Choirs and Ancient Cults](https://www.youtube.com/watch?v=OoiP5mBRBwc) ♡ <br />
 ╰- [Dark Atmospheric Music from the Shadowlands](https://www.youtube.com/watch?v=000z5zd6mrc) ♡ <br />
