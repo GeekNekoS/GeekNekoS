@@ -54,6 +54,13 @@
 # Music for development
 <details>
   <summary>
+    <a href='https://www.youtube.com/watch?v=ThIN3Av9Qw0'>Male Alchemy - RIO 40</a> ♡
+  </summary>
+  <img src='https://github.com/GeekNekoS/GeekNekoS/assets/116801392/c3696000-eeb4-4f48-896d-a4c8afbb80dd'></img>
+</details> 
+<!--
+<details>
+  <summary>
     <a href='https://www.youtube.com/watch?v=ydHzwERb2rY'>Rhan-Tegoth part 1</a>, <a href='https://www.youtube.com/watch?v=ZGImCRim704'>Rhan-Tegoth part 2</a> ♡
   </summary>
   <img src='https://github.com/GeekNekoS/GeekNekoS/assets/116801392/67880948-7b39-424f-b79a-516f978d8b2c'></img>
@@ -70,6 +77,7 @@
   <a href='https://www.youtube.com/watch?v=J-_KnNpZoE0'>Tape Tech</a> <br />
   <a href='https://www.youtube.com/watch?v=bnkMsmwCRco'>Lost Among Stars</a>
 </details> 
+-->
 <br />
 
 ![](https://komarev.com/ghpvc/?username=GeekNekoS&color=grey)
