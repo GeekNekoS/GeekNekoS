@@ -1,5 +1,4 @@
 # Tech Stack <img style="width: 40px; height: 40px" src="https://camo.githubusercontent.com/d680d47b3fbb57adbcfc30bac03f742d1b3cfc3edb51d7b09a1ab35dd5fe3218/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d64656661756c742e676966">
-
 <table>
   <tr>
     <th>Version control</th>
@@ -38,17 +37,17 @@
 </table>
 <br />
 
-# Active projects
 
+# Active projects
 ### ⭐ Web-site with <a href="https://my-resume.up.railway.app/" target="_blank">my resume</a>
 ### ⭐ Look into my demo [parsing service](https://parsing-service.up.railway.app) 
 <details>
   <summary>Preview</summary>
   <img src='https://github.com/GeekNekoS/GeekNekoS/assets/116801392/b059e17a-2679-4bf0-a864-db56c30a477c'></img>
 </details> 
-
 ### ⭐ A service for studying English coming soon
 <br />
+
 
 # Music for development
 <details>
@@ -57,17 +56,16 @@
   </summary>
   <img src='https://github.com/GeekNekoS/GeekNekoS/assets/116801392/67880948-7b39-424f-b79a-516f978d8b2c'></img>
 </details> 
-
 <details>
   <summary>
     Other
   </summary>
-  <a href='https://www.youtube.com/watch?v=OoiP5mBRBwc'>Dark Ambient of Gothic Choirs and Ancient Cults</a>
-  <a href='https://www.youtube.com/watch?v=000z5zd6mrc'>Dark Atmospheric Music from the Shadowlands</a>
-  <a href='https://www.youtube.com/watch?v=bg4m2yZSIr4'>Cult of the Black Moon</a>
-  <a href='https://www.youtube.com/watch?v=56KHX6tMZ0g'>Celestial Warchants</a>
-  <a href='https://www.youtube.com/watch?v=z6nRBoZ9WZY'>From Abandoned Spaceships to Ancient Temples</a>
-  <a href='https://www.youtube.com/watch?v=J-_KnNpZoE0'>Tape Tech</a>
+  <a href='https://www.youtube.com/watch?v=OoiP5mBRBwc'>Dark Ambient of Gothic Choirs and Ancient Cults</a> <br />
+  <a href='https://www.youtube.com/watch?v=000z5zd6mrc'>Dark Atmospheric Music from the Shadowlands</a> <br />
+  <a href='https://www.youtube.com/watch?v=bg4m2yZSIr4'>Cult of the Black Moon</a> <br />
+  <a href='https://www.youtube.com/watch?v=56KHX6tMZ0g'>Celestial Warchants</a> <br />
+  <a href='https://www.youtube.com/watch?v=z6nRBoZ9WZY'>From Abandoned Spaceships to Ancient Temples</a> <br />
+  <a href='https://www.youtube.com/watch?v=J-_KnNpZoE0'>Tape Tech</a> <br />
   <a href='https://www.youtube.com/watch?v=bnkMsmwCRco'>Lost Among Stars</a>
 </details> 
 <br />
