@@ -40,12 +40,13 @@
 
 # Active projects
 ### ⭐ Web-site with <a href="https://my-resume.up.railway.app/" target="_blank">my resume</a>
-### ⭐ Look into my demo [parsing service](https://parsing-service.up.railway.app) 
+### ⭐ Look into my demo [parsing service](https://parsing-service.up.railway.app)
+<!--
 <details>
   <summary>Preview</summary>
   <img src='https://github.com/GeekNekoS/GeekNekoS/assets/116801392/b059e17a-2679-4bf0-a864-db56c30a477c'></img>
 </details> 
-
+-->
 ### ⭐ A service for studying English coming soon
 <br />
 
