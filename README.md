@@ -54,7 +54,7 @@
 Neko's edition <br />
 <details>
   <summary>
-    <a href='https://www.youtube.com/watch?v=ydHzwERb2rY'>Rhan-Tegoth part 2</a>, <a href='https://www.youtube.com/watch?v=ZGImCRim704'>Rhan-Tegoth part 2</a>
+    <a href='https://www.youtube.com/watch?v=ydHzwERb2rY'>Rhan-Tegoth part 1</a>, <a href='https://www.youtube.com/watch?v=ZGImCRim704'>Rhan-Tegoth part 2</a>
   </summary>
   <img src='https://github.com/GeekNekoS/GeekNekoS/assets/116801392/67880948-7b39-424f-b79a-516f978d8b2c'></img>
 </details> 
