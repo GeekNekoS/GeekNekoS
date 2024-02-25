@@ -46,7 +46,7 @@
 
 <details>
   <summary>preview</summary>
-  ![image](https://github.com/GeekNekoS/GeekNekoS/assets/116801392/b059e17a-2679-4bf0-a864-db56c30a477c)
+  <a src='https://github.com/GeekNekoS/GeekNekoS/assets/116801392/b059e17a-2679-4bf0-a864-db56c30a477c'></a>
 </details> 
 
 ### ⭐ A service for studying English coming soon
