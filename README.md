@@ -50,6 +50,8 @@
 ### ⭐ UrFU [Training simulator](https://t.me/urfu_tests_study_bot)
 -->
 ### ⭐ A service for studying English coming soon
+
+### ⭐ Join the channel with my creativity: https://t.me/nekos_creativity
 <br />
 
 
