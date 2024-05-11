@@ -40,7 +40,9 @@
 
 # Active projects
 ### ⭐ Web-site with <a href="https://my-resume.up.railway.app/" target="_blank">my resume</a>
+<!--
 ### ⭐ Look at my demo [parsing service](https://parsing-service.up.railway.app)
+-->
 ### ⭐ My channel [Parse Craft: The Art of Data Extraction](https://t.me/parse_craft)
 <!--
 <details>
