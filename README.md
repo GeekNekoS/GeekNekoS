@@ -40,8 +40,6 @@
 
 # Active projects
 
-### ⭐ [Investment Courses](http://project9741751.tilda.ws/)
-
 ### ⭐ Web-site with <a href="https://my-resume.up.railway.app/" target="_blank">my resume</a>
 <!--
 ### ⭐ Look at my demo [parsing service](https://parsing-service.up.railway.app)
