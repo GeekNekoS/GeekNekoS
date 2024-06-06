@@ -53,10 +53,10 @@
   <img src='https://github.com/GeekNekoS/GeekNekoS/assets/116801392/b059e17a-2679-4bf0-a864-db56c30a477c'></img>
 </details> 
 
-### ⭐ UrFU [Training simulator](https://t.me/urfu_tests_study_bot)
-
 ### ⭐ A service for studying English coming soon
 -->
+
+### ⭐ UrFU [Training simulator](https://t.me/urfu_tests_study_bot)
 
 ### ⭐ Join the channel with my creativity: https://t.me/nekos_creativity
 <br />
