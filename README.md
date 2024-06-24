@@ -54,9 +54,9 @@
 </details> 
 
 ### ⭐ A service for studying English coming soon
--->
 
 ### ⭐ UrFU [Training simulator](https://t.me/urfu_tests_study_bot)
+-->
 
 ### ⭐ Join the channel with my creativity: https://t.me/nekos_creativity
 <br />
