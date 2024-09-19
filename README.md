@@ -1,4 +1,4 @@
-# Tech Stack <img style="width: 40px; height: 40px" src="https://camo.githubusercontent.com/d680d47b3fbb57adbcfc30bac03f742d1b3cfc3edb51d7b09a1ab35dd5fe3218/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d64656661756c742e676966">
+# Tech Stack
 <table>
   <tr>
     <th>Version control</th>
