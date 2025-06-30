@@ -5,7 +5,6 @@
     <th>Languages</th>
     <th>Web</th>
     <th>Databases</th>
-    <th>Testing</th>
     <th>Parsing / Automation</th>
   </tr>
   <tr>
@@ -31,17 +30,8 @@
     </td>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=selenium,pytest" />
-      </a>
-    </td>
-    <td>
-      <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=selenium,py,playwright" />
       </a><br/>
-      + BeautifulSoup<br/>
-      + requests<br/>
-      + lxml<br/>
-      + aiohttp (если нужен async парсинг)
     </td>
   </tr>
 </table>
