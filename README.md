@@ -5,7 +5,7 @@
     <th>Languages</th>
     <th>Web</th>
     <th>Databases</th>
-    <th>Parsing / Automation</th>
+    <th>Parsing</th>
   </tr>
   <tr>
     <td>
@@ -30,7 +30,7 @@
     </td>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=selenium,py,playwright" />
+        <img src="https://skillicons.dev/icons?i=selenium" />
       </a><br/>
     </td>
   </tr>
