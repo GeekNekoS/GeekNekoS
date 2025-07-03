@@ -9,48 +9,34 @@
   </tr>
   <tr>
     <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github" />
-      </a>
+      <img src="https://cdn.simpleicons.org/git" width="30" alt="Git" />
+      <img src="https://cdn.simpleicons.org/github" width="30" alt="GitHub" />
     </td>
     <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,js" />
-      </a>
+      <img src="https://cdn.simpleicons.org/python" width="30" alt="Python" />
+      <img src="https://cdn.simpleicons.org/javascript" width="30" alt="JavaScript" />
     </td>
     <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=django,css,scss,html,bootstrap,svg" />
-      </a>
+      <img src="https://cdn.simpleicons.org/django" width="30" alt="Django" />
+      <img src="https://cdn.simpleicons.org/css3" width="30" alt="CSS3" />
+      <img src="https://cdn.simpleicons.org/sass" width="30" alt="Sass" />
+      <img src="https://cdn.simpleicons.org/html5" width="30" alt="HTML5" />
+      <img src="https://cdn.simpleicons.org/bootstrap" width="30" alt="Bootstrap" />
+      <img src="https://cdn.simpleicons.org/svg" width="30" alt="SVG" />
     </td>
     <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
-      </a>
+      <img src="https://cdn.simpleicons.org/postgresql" width="30" alt="PostgreSQL" />
+      <img src="https://cdn.simpleicons.org/sqlite" width="30" alt="SQLite" />
     </td>
     <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=selenium" />
-      </a><br/>
+      <img src="https://cdn.simpleicons.org/selenium" width="30" alt="Selenium" />
     </td>
   </tr>
 </table>
 <br />
 
-
 # Active projects
 ### ⭐ Join the channel with my creativity: https://t.me/nekos_creativity
 <br />
 
-
-# Music for development
-<details>
-  <summary>
-    <a href='https://www.youtube.com/watch?v=ThIN3Av9Qw0'>Male Alchemy - RIO 40</a> ♡
-  </summary>
-  <img src='https://github.com/GeekNekoS/GeekNekoS/assets/116801392/c3696000-eeb4-4f48-896d-a4c8afbb80dd'></img>
-</details> 
-<br />
-
 ![](https://komarev.com/ghpvc/?username=GeekNekoS&color=grey)
-
